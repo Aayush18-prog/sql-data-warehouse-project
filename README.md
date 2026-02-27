@@ -114,5 +114,5 @@ Hi there! I'm **Aayush Gupta**. I’m an student who wants to contribute in data
 
 Let's stay in touch! Feel free to connect with me on the following platforms:
 
-[![LinkedIn](https://www.linkedin.com/in/aayush-gupta-data)
-[![X](https://x.com/aayyuushh_18)
+ LinkedIN (https://www.linkedin.com/in/aayush-gupta-data)
+ X (https://x.com/aayyuushh_18)
